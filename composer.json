@@ -1,0 +1,15 @@
+{
+    "name": "sanjula007/calculator",
+    "description": "Calculator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sanjula",
+            "email": "sanjulah@reapdigital.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^4.1"
+    }
+}
